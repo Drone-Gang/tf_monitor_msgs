@@ -60,6 +60,7 @@ find_package(catkin REQUIRED COMPONENTS
    FILES
    GetStampedTopicTf.srv
    GetTf.srv
+   SetStaticTf.srv
  )
 
 ## Generate actions in the 'action' folder
